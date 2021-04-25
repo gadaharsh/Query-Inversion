@@ -17,4 +17,9 @@ Queries for creating Instructor,Teaches table are present,also with thier input 
 Inverse Queries will be obtained for three different types of SQL Queries viz.
 A.Single Table Queries
 B.Multiple Table Queries
-C.Aggregate Queries:
+C.Aggregate Queries
+_____________________________________________
+
+Area of Use:
+![image](https://user-images.githubusercontent.com/68476614/115984475-dc1d1a80-a5c4-11eb-95a3-40dd4a6cc7a1.png)
+
