@@ -21,5 +21,6 @@ C.Aggregate Queries
 _____________________________________________
 
 Area of Use:
+_____________________________________________
 ![image](https://user-images.githubusercontent.com/68476614/115984475-dc1d1a80-a5c4-11eb-95a3-40dd4a6cc7a1.png)
 
