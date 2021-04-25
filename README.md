@@ -2,11 +2,7 @@
 ____________________________________________
 Reference IEEE Paper : Mathematical Formulation and Implementation of Query Inversion Techniques in RDBMS for Tracking Data Provenance
 ____________________________________________
-Name:Harsh Gada
-Class: SY B1
-Course: RDBMS
-Faculty Name:Vaibhav Vasani,Pradnya Bhangale
-College Name:KJSCE
+Name:Harsh Gada | Class: SY B1| Course: RDBMS| Faculty Name: Vaibhav Vasani,Pradnya Bhangale | College Name:KJSCE
 _____________________________________________
 Instructions:
 Presentation is created based on referenced IEEE Paper mentioned above.
